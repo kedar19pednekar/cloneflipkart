@@ -1,2 +1,3 @@
 # cloneflipkart
-Flipkart clone using MERN stack. Added a paytm gateway, admin dashboard on other git repo.
+Flipkart clone using MERN stack. Added a paytm gateway. 
+Provided an admin dashboard in a seperate repo.
